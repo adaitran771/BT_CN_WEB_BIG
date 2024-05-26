@@ -12,8 +12,11 @@
 		"cors": "^2.8.1",
 		"dotenv": "^8.2.0",
 		"express": "^4.14.0",
-		"helmet": "^3.1.0",
-		"mocha": "^3.2.0"
+		"helmet": "^7.1.0",
+		"mocha": "^3.2.0",
+		"mongodb": "^6.6.2",
+		"mongoose": "^8.4.0",
+		"xmlhttprequest": "^1.8.0"
 	},
 	"repository": {
 		"type": "git",
